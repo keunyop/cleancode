@@ -15,4 +15,8 @@
 PhoneNumber phoneString;
 ```
 
-### 
+### 클래스 이름 (32p)
+
+클래스 이름과 객체 이름은 명사나 명사구가 적합하다.
+
+Manager, Processor, Data, Info 등과 같은 단어는 피하고, 동사는 사용하지 않는다.
